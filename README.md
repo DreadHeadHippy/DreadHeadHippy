@@ -10,6 +10,8 @@
 
 ##  About This Developer
 
+<div align="center">
+  
 ```javascript
 const dreadHeadHippy = {
     code: ["JavaScript", "Python", "HTML/CSS", "Node.js, C#"],
@@ -21,8 +23,6 @@ const dreadHeadHippy = {
 ```
 
 ---
-
-<div align="center">
 
 ##  Tech Arsenal
 
