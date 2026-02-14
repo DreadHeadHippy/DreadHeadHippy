@@ -41,36 +41,10 @@ const dreadHeadHippy = {
 
 <div align="center">
 
-##  GitHub Vibes
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DreadHeadHippy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreadHeadHippy&layout=compact&langs_count=8&theme=synthwave"/>
-
-</div>
-
-
-<div align="center">
 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/DreadHeadHippy/DreadHeadHippy/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌟 Featured Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DreadHeadHippy&repo=Controller-Compatibility&theme=synthwave)](https://github.com/DreadHeadHippy/Controller-Compatibility)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DreadHeadHippy&repo=7-Ply&theme=synthwave)](https://github.com/DreadHeadHippy/7-Ply)
-
----
-
-## 🏆 Trophy Cabinet
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DreadHeadHippy&theme=radical&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 
 ---
 
